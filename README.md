@@ -1,5 +1,3 @@
-# computer-graphics
-# undergraduate research
 # author: Caroline Santos Corrêia, Brazilian 
 # Bachelor in Applied Mathematics and Scientifc Computing in University of São Paulo, Brazil
 
